@@ -42,7 +42,7 @@ const Hero = () => {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src=https://ibb.co/1tCpKH1B
+          src="https://ibb.co/1tCpKH1B"
           alt="Modern warehouse logistics operation"
           className="w-full h-full object-cover"
           loading="eager"
